@@ -1,0 +1,98 @@
+od: Ordered Window, uw: Unordered Window
+sd: Sequential Dependence
+anchor: Anchor collection
+title: Title of documents
+body: Body of documents
+
+Feature_id	Feature_definition
+1	bm25-od-sd-1-anchor
+2	bm25-od-sd-1-title
+3	bm25-od-sd-1-body
+4	bm25-od-sd-16-anchor
+5	bm25-od-sd-16-title
+6	bm25-od-sd-16-body
+7	bm25-od-sd-2-anchor
+8	bm25-od-sd-2-title
+9	bm25-od-sd-2-body
+10	bm25-od-sd-4-anchor
+11	bm25-od-sd-4-title
+12	bm25-od-sd-4-body
+13	bm25-od-sd-8-anchor
+14	bm25-od-sd-8-title
+15	bm25-od-sd-8-body
+16	bm25-term-anchor
+17	bm25-term-title
+18	bm25-term-body
+19	bm25-uw-sd-1-anchor
+20	bm25-uw-sd-1-title
+21	bm25-uw-sd-1-body
+22	bm25-uw-sd-16-anchor
+23	bm25-uw-sd-16-title
+24	bm25-uw-sd-16-body
+25	bm25-uw-sd-2-anchor
+26	bm25-uw-sd-2-title
+27	bm25-uw-sd-2-body
+28	bm25-uw-sd-4-anchor
+29	bm25-uw-sd-4-title
+30	bm25-uw-sd-4-body
+31	bm25-uw-sd-8-anchor
+32	bm25-uw-sd-8-title
+33	bm25-uw-sd-8-body
+34	bm25f-od-sd-1
+35	bm25f-od-sd-16
+36	bm25f-od-sd-2
+37	bm25f-od-sd-4
+38	bm25f-od-sd-8
+39	bm25f-term
+40	bm25f-uw-sd-1
+41	bm25f-uw-sd-16
+42	bm25f-uw-sd-2
+43	bm25f-uw-sd-4
+44	bm25f-uw-sd-8
+45	dirichlet-od-sd-1-anchor
+46	dirichlet-od-sd-1-title
+47	dirichlet-od-sd-1-body
+48	dirichlet-od-sd-16-anchor
+49	dirichlet-od-sd-16-title
+50	dirichlet-od-sd-16-body
+51	dirichlet-od-sd-2-anchor
+52	dirichlet-od-sd-2-title
+53	dirichlet-od-sd-2-body
+54	dirichlet-od-sd-4-anchor
+55	dirichlet-od-sd-4-title
+56	dirichlet-od-sd-4-body
+57	dirichlet-od-sd-8-anchor
+58	dirichlet-od-sd-8-title
+59	dirichlet-od-sd-8-body
+60	dirichlet-term-anchor
+61	dirichlet-term-title
+62	dirichlet-term-body
+63	dirichlet-uw-sd-1-anchor
+64	dirichlet-uw-sd-1-title
+65	dirichlet-uw-sd-1-body
+66	dirichlet-uw-sd-16-anchor
+67	dirichlet-uw-sd-16-title
+68	dirichlet-uw-sd-16-body
+69	dirichlet-uw-sd-2-anchor
+70	dirichlet-uw-sd-2-title
+71	dirichlet-uw-sd-2-body
+72	dirichlet-uw-sd-4-anchor
+73	dirichlet-uw-sd-4-title
+74	dirichlet-uw-sd-4-body
+75	dirichlet-uw-sd-8-anchor
+76	dirichlet-uw-sd-8-title
+77	dirichlet-uw-sd-8-body
+78	length-anchor (Anchor length)
+79	length-title (Title length)
+80	length-body (Body length)
+81	presence-anchor (Query present in anchor text?)
+82	presence-title (Query present in title?)
+83	bodyBodyHtmlRatio (Ratio of body text to body HTML)
+84	bodyHtmlRatio (Ratio of body text to entire HTML)
+85	formHtmlRatio (Ratio of form length to HTML)
+86	linkTags (Number of link tags)
+87	pagerank (PageRank score)
+88	scriptHtmlRatio (Ratio of script to HTML)
+89	scriptTags (Number of script tags)
+90	spam (Waterloo spam scores)
+91	tableHtmlRatio (Ratio of Table to HTML)
